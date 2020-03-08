@@ -1,0 +1,2 @@
+rootProject.name='SMS Consent API Example'
+include ':app'
